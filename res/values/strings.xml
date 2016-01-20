@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, QuizActivity!</string>
+    <string name="app_name">Quiz</string>
+    <string name="AddAnswer"></string>
+    <string name="splash"></string>
+    <string name="menu"></string>
+    <string name="Help"></string>
+
+</resources>
